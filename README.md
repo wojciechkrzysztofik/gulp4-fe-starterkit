@@ -10,5 +10,5 @@ Run: gulp
 
 ### Production
 
-Run: gulp build
-It generate compiled html, css and js files in dist directory.
+Run: gulp build  
+It generate compiled html, css and js files in dist directory.  
